@@ -1,0 +1,15 @@
+==56873== Memcheck, a memory error detector
+==56873== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==56873== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==56873== Command: ./../src/main input/sensors_print_easy_4.dat
+==56873== Parent PID: 56872
+==56873== 
+==56873== 
+==56873== HEAP SUMMARY:
+==56873==     in use at exit: 0 bytes in 0 blocks
+==56873==   total heap usage: 62 allocs, 62 frees, 14,376 bytes allocated
+==56873== 
+==56873== All heap blocks were freed -- no leaks are possible
+==56873== 
+==56873== For lists of detected and suppressed errors, rerun with: -s
+==56873== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
